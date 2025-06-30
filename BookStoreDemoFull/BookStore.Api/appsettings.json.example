@@ -1,0 +1,16 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=YOUR_SERVER;Database=BookStoreDb;Trusted_Connection=True;"
+  },
+  "JwtSettings": {
+    "Issuer": "BookStoreApi",
+    "Audience": "BookStoreClient",
+    "Secret": "SuperSecretKey123456"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
