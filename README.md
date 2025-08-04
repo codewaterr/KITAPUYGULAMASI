@@ -1,4 +1,4 @@
-# ZEYNEPKONYALIOGLUKAMUTECH
+# ZEYNEPKONYALIOGLU KITAPUYGULAMASI
 
 Basit bir kitap satış sistemi RESTful API demo uygulamasıdır. .NET 7, Entity Framework Core, MediatR (CQRS), JWT Authentication, Swagger ve xUnit kullanılarak geliştirilmiştir.
 
